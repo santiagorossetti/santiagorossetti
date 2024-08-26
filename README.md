@@ -15,8 +15,8 @@
 - Looking for my first laboral experience and growing up as a programmer
 
 <br><br>
- <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" />Tools i have knowdlege</h2></summary>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" />Tools i have knowdlege</h2>
 
 <br>
 
