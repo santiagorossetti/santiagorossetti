@@ -10,7 +10,7 @@
 
 - Coding from Argentina
   
-- Studying computer science
+- Studying system engineering
 
 - Looking for my first laboral experience and growing up as a programmer
 
